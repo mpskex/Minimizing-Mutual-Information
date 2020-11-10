@@ -1,16 +1,10 @@
-# Learning Compact Binary Representation with Unsupervised Deep Neural Network
+# Minimizing Mutual Information for Unsupervised Hash
 
-    Master Thesis at the University of British Columbia Okanagan
     Master of Applied Science 
     Fangrui Liu 2020
 
-[](https://raw.githubusercontent.com/mpskex/Convolutional-Pose-Machine-tf/master/demo/arch.png)
+![Demo](https://raw.githubusercontent.com/mpskex/Minimizing-Mutual-Information/main/scatter_preserv.gif)
 
-Including implementation for 2 papers:
-
-- Normalized Hash: Learning Unsupervised Binary Representation with Large Batch
-
-- Minimizing Mutual Information for Unsupervised Binary Representation
 
 Note:
 
