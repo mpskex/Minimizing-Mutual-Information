@@ -4,7 +4,7 @@
     Master of Applied Science 
     Fangrui Liu 2020
 
-![Demo](https://raw.githubusercontent.com/mpskex/Minimizing-Mutual-Information/main/scatter_preserv.gif)
+![Demo](https://github.com/mpskex/Minimizing-Mutual-Information/blob/main/scatter_preserv.gif?raw=true)
 
 You can used [precomputed feature](https://drive.google.com/drive/folders/1dcm6v4KTx4i6L3JqknhpWDFOb0RXPtRx?usp=sharing) from VGG-16 to train.
 
