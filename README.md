@@ -1,5 +1,6 @@
 # Minimizing Mutual Information for Unsupervised Hash
 
+    Unversity of British Columbia Okanagan
     Master of Applied Science 
     Fangrui Liu 2020
 
