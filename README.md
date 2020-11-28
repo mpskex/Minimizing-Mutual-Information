@@ -1,4 +1,4 @@
-# Minimizing Mutual Information for Unsupervised Hash
+# Minimizing Mutual Information for Unsupervised Hash [[arxiv](https://arxiv.org/abs/2011.10239)]
 
     Unversity of British Columbia Okanagan
     Master of Applied Science 
